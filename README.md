@@ -1,5 +1,5 @@
 ### Snake with Natural Network
-## AI mechanism to play classic Snake game
+#### AI mechanism to play classic Snake game
 
 11 bool variables for model input:
 * Three describe is obstacles on right, forward or left

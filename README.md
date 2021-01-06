@@ -16,3 +16,7 @@ Trained model provided below results:
 * Game 5: 230 points (20 apples eaten)
 
 Screenshots from game:
+![snake0](https://user-images.githubusercontent.com/47610591/103782983-70746900-5038-11eb-81d7-838c664f8df9.png)
+![snake1](https://user-images.githubusercontent.com/47610591/103782984-710cff80-5038-11eb-9051-02d9aac674b7.png)
+![snake2](https://user-images.githubusercontent.com/47610591/103782978-6fdbd280-5038-11eb-93e3-e7b033a8d01c.png)
+![snake3](https://user-images.githubusercontent.com/47610591/103782982-70746900-5038-11eb-95da-f2de62bdccb2.png)

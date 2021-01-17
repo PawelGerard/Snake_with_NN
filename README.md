@@ -1,4 +1,4 @@
-### Snake with Natural Network
+### Snake with Neural Network
 #### AI mechanism to play classic Snake game
 
 11 bool variables for model input:
